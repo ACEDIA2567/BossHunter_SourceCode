@@ -1,6 +1,6 @@
 # BossHunter_SourceCode
 
-## BossHunter GitHub => https://github.com/ACEDIA2567/BossHunter
+## BossHunter 정리 및 진행 => https://github.com/ACEDIA2567/BossHunter
 
 ## SourceCode
 📦Scripts  
